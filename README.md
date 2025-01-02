@@ -5,9 +5,7 @@
 Making Stock Movement Predictions Far into the Future Long-short-term memory models are extremely powerful time-series models. They can predict an arbitrary number of steps into the future. An LSTM module (or cell) has 5 essential components, which allow it to model both long-term and short-term data. 
 
 See the example  below:
-
-
-![lstm_pic](https://github.com/user-attachments/assets/02984314-e125-43eb-89d3-861684e93dee)
+![lstm_pic](https://github.com/user-attachments/assets/c3f32725-de0a-45e7-b059-7e82964d8c34)
 
 **Cell state (ct)** - This represents the internal memory of the cell, which stores both short-term memory and long-term memories.
 

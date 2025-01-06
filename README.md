@@ -1,6 +1,6 @@
 # Stock-Market-Prediction-using-LSTM
 
-# #Introduction to LSTMs: 
+# Introduction to LSTMs: 
 
 Making Stock Movement Predictions Far into the Future Long-short-term memory models are extremely powerful time-series models. They can predict an arbitrary number of steps into the future. An LSTM module (or cell) has 5 essential components, which allow it to model both long-term and short-term data. 
 

@@ -28,3 +28,10 @@ You will be using data from the following sources:
 
 The stock Market Data is derived from [www.alaphavintage.co] Alpha Vantage Stock API.   This stock market data retrieves 20 years of historical data for the American Airlines stock. 
 
+# Data Visualization
+![stock](https://github.com/user-attachments/assets/a8ab8f03-89f8-465d-a6de-c9931b1d5aac)
+
+# Prediction
+
+![stock_2](https://github.com/user-attachments/assets/74d86341-ade1-436d-bfe9-b6d7081e5e78)
+
